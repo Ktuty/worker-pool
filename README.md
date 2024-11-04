@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=35&duration=4000&color=5AFF42&center=true&vCenter=true&width=435&height=100&lines=WORKER-POOL" alt="Typing SVG" /></a>
+</div>
 # Пул воркеров на Go с динамическим управлением
 Данный проект представляет собой реализацию пула воркеров на языке Go, который позволяет динамически добавлять и удалять воркеров в процессе выполнения программы. Воркеры обрабатывают задачи из канала, что делает проект идеальным для распределения нагрузки и параллельной обработки.
 
